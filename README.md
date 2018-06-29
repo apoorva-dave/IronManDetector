@@ -27,5 +27,12 @@ python test_network.py --model ironman_not_ironman.model --input_img examples/ir
 
 Keep the directory structure same as that of mine so as to get the code running smoothly.
 
+## Results
 
+Once you run the test_network, this is what you get :
 
+![ironman](https://user-images.githubusercontent.com/19779081/42071726-6bbb13fe-7b7a-11e8-87f5-5b7f6b9cb33d.PNG)
+
+Isn't it cool? Your own Iron Man Detector :D
+
+Dataset has been kept small so that everyone can train the neural network on their on systems. 
